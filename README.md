@@ -3,7 +3,7 @@ datasciencecoursera
 
 Data Science Coursera test repo
 
-##practicing and testing 
+## Practicing and Testing 
 
 1. Item One
 2. Item Two
